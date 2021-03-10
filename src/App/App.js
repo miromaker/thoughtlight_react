@@ -1,10 +1,8 @@
 import React from 'react';
-import Header from './Header';
-import Wordbulbs from './Wordbulbs';
-import Requests from './Requests';
-import Footer from './Footer';
-
-
+import Header from '../Header/Header';
+import Wordbulbs from '../Wordbulbs/Wordbulbs';
+import Requests from '../Requests/Requests';
+import Footer from '../Footer/Footer';
 
 import './App.css';
 

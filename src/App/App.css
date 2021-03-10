@@ -1,0 +1,47 @@
+html {
+    background-color: #1A1A1A;
+    font-family: "Archivo", sans-serif;
+    font-size: 16px; 
+    color: rgb(249, 255, 182, 0.75);
+    text-align: center; 
+  }
+  
+  
+  button {
+    text-align: center; 
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;   
+    background-color: rgb(249, 255, 182, 0.75);
+    color: #323232;
+  }
+  
+  h1 {
+    display: inline-block;
+    font-size: 61px; 
+    font-weight: 700;
+    letter-spacing: 2rem;
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    font-size: 28px; 
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center; 
+  }
+  
+  h3 {
+    font-size: 19px; 
+    font-weight: 200;
+    text-transform: uppercase;
+    text-align: center; 
+    color: rgb(249, 255, 182, 0.40);
+    letter-spacing: .4rem;
+    text-transform: uppercase;
+  }
+  
+  a {
+    color: rgb(249, 255, 182, 0.75);
+  }
+  
